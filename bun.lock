@@ -5,8 +5,8 @@
       "name": "astro-tinacms-with-template",
       "dependencies": {
         "@astrojs/react": "^4.2.7",
-        "@types/react": "^18.3.1",
-        "@types/react-dom": "^18.3.1",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
         "astro": "^5.7.12",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
